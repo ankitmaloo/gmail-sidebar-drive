@@ -1,0 +1,27 @@
+{
+  "timeZone": "GMT",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.addons.execute",
+    "https://www.googleapis.com/auth/drive.readonly"
+  ],
+  "gmail": {
+    "name": "Google Drive File List",
+    "logoUrl": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png",
+    "homepageTrigger": {
+        "runFunction": "driveFileList",
+        "enabled": true
+        },
+
+    "primaryColor": "#000000",
+    "secondaryColor": "#94f441"
+  },
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Drive",
+        "version": "v2",
+        "serviceId": "drive"
+      }
+    ]
+  }
+}
