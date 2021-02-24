@@ -1,4 +1,4 @@
-# A Drive Add On for Gmail Sidebar
+# A Google Drive Add On for Gmail Sidebar
 A simple gmail add on to display all the drive folders and files in sidebar. 
 
 **Problem:** G-Suite offers email, and G-Suite also offers Google Drive. Everytime I need to open a file, I need to go to drive/sheets/doc and then find the file and navigate. Google also provides a sidebar to add a few plugins or shortcuts, but does not provide access to Google Drive automatically. So, I made one. And, the basic mechanics were way too simple. Took me half an hour. 
