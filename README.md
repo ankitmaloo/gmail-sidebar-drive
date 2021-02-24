@@ -4,7 +4,7 @@ A simple gmail add on to display all the drive folders and files in sidebar.
 **Problem:** G-Suite offers email, and G-Suite also offers Google Drive. Everytime I need to open a file, I need to go to drive/sheets/doc and then find the file and navigate. Google also provides a sidebar to add a few plugins or shortcuts, but does not provide access to Google Drive automatically. So, I made one. And, the basic mechanics were way too simple. Took me half an hour. 
 
 
-Written in App Script, a javascript like languages which Google provides an editor for. A lot of Google Sheets or Google Doc add on happen in Google App Script. 
+Written in App Script, a javascript like language which Google provides an editor for. A lot of Google Sheets or Google Doc customizations happen in Google App Script. 
 
 # Steps
 
