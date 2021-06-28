@@ -24,3 +24,5 @@ Written in App Script, a javascript like language which Google provides an edito
 
 ### Feel free to take it away. Just wanted to nudge folks in this direction as I believe a lot of productivity can be unlocked if things merely show up in Sidebar. I scratched my itch, though I hope others would be happy to modify it and we can see some really amazing products.
 
+Product Hunt Link: https://www.producthunt.com/posts/google-drive-add-on-for-gmail-sidebar
+
